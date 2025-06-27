@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rithesh26kumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CrGodeJB5iiZ7lrF7mX3hSAy5yLniiyM/view?usp=sharing](https://drive.google.com/file/d/1CrGodeJB5iiZ7lrF7mX3hSAy5yLniiyM/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1CrGodeJB5iiZ7lrF7mX3hSAy5yLniiyM/view?usp=sharing)
 
 - ⚡ Fun fact **I can design a sleek UI faster than my coffee cools down ☕🎨**
 

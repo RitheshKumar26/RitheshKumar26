@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rithesh Kumar</h1>
 <h3 align="center">A passionate Full Stack developer and UI/UX designer from India</h3>
 
-- 🔭 I’m currently working on [aquanature](https://aquanaturepure.netlify.app/)
+- 📄 My Portfolio [cr8v Rithesh](https://www.cr8vrithesh.me)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Framer Motion, Firebase Auth, and design tokens**
 
